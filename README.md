@@ -1,0 +1,2 @@
+# banffroyalplaza
+Static site: banffroyalplaza
